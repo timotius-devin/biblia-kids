@@ -401,7 +401,7 @@ export default function App() {
         .cms{padding:18px 24px;min-height:120px;max-height:400px;overflow-y:auto;display:flex;flex-direction:column;gap:14px}
         .cempty{color:#3a5a3a;font-style:italic;font-size:15px;text-align:center;padding:24px 0}
 
-        .sugg{display:flex;gap:8px;flex-wrap:wrap;padding:0 24px 12px}
+        .sugg{display:flex;gap:8px;flex-wrap:wrap;padding:0 24px 16px;justify-content:center;margin-top:8px}
         .sugg-btn{padding:6px 14px;background:rgba(126,200,80,.1);border:1px solid rgba(126,200,80,.25);border-radius:20px;color:#7ec850;font-family:'Nunito',sans-serif;font-size:12px;font-weight:700;cursor:pointer;transition:all .2s;white-space:nowrap}
         .sugg-btn:hover{background:rgba(126,200,80,.2);border-color:#7ec850}
 
