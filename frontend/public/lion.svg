@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Simple lion face SVG for favicon -->
+  <circle cx="50" cy="50" r="48" fill="#f5c842"/>
+  <!-- Mane -->
+  <circle cx="50" cy="50" r="38" fill="#e8a020"/>
+  <!-- Face -->
+  <circle cx="50" cy="52" r="28" fill="#f5c842"/>
+  <!-- Eyes -->
+  <circle cx="40" cy="46" r="5" fill="#3d2b00"/>
+  <circle cx="60" cy="46" r="5" fill="#3d2b00"/>
+  <circle cx="41" cy="45" r="2" fill="white"/>
+  <circle cx="61" cy="45" r="2" fill="white"/>
+  <!-- Nose -->
+  <ellipse cx="50" cy="56" rx="5" ry="3.5" fill="#c05020"/>
+  <!-- Mouth -->
+  <path d="M44 61 Q50 67 56 61" stroke="#3d2b00" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Whiskers -->
+  <line x1="20" y1="54" x2="40" y2="57" stroke="#3d2b00" stroke-width="1.5"/>
+  <line x1="20" y1="60" x2="40" y2="60" stroke="#3d2b00" stroke-width="1.5"/>
+  <line x1="60" y1="57" x2="80" y2="54" stroke="#3d2b00" stroke-width="1.5"/>
+  <line x1="60" y1="60" x2="80" y2="60" stroke="#3d2b00" stroke-width="1.5"/>
+  <!-- Ears -->
+  <polygon points="25,25 35,42 15,42" fill="#e8a020"/>
+  <polygon points="75,25 85,42 65,42" fill="#e8a020"/>
+  <polygon points="25,25 33,38 18,38" fill="#f5c842"/>
+  <polygon points="75,25 82,38 67,38" fill="#f5c842"/>
+</svg>
