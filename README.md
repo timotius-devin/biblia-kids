@@ -1,4 +1,4 @@
-# Biblia Kids
+# 🦁 Biblia Kids
 
 A Bible reading and exploration app for children, built on the conviction that great doctrine and great storytelling belong together.
 
